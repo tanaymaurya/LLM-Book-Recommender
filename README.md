@@ -68,15 +68,12 @@ OPENAI_API_KEY=your_openai_key
 ```
 python gradio-dashboard.py
 ```
-5. Open your browser:
 
-    Go to http://127.0.0.1:7860/ to access the Gradio UI.
-
-6. Input your preferences:
+5. Input your preferences:
 
     Enter a book description, select an emotional tone, and choose a category to get recommendations.
 
-7. Explore the results:
+6. Explore the results:
 
     Browse through the recommended books and their details.
 
@@ -86,10 +83,10 @@ python gradio-dashboard.py
 
 HuggingFace: For the Transformers library and pre-trained models.
 
-Langchain: For document management and integration with language models.
+   Langchain: For document management and integration with language models.
 
-OpenAI: For providing powerful language models.
+   OpenAI: For providing powerful language models.
 
-ChromaDB: For vector database management.
+   ChromaDB: For vector database management.
 
-Gradio: For building the user interface.
+   Gradio: For building the user interface.
