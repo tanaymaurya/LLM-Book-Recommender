@@ -1,0 +1,126 @@
+# ---------------------------------
+# Python
+# ---------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+pip-selfcheck.json
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Pytest
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Model training artifacts
+checkpoints/
+logs/
+runs/
+*.ckpt
+*.pth
+*.pt
+*.h5
+*.onnx
+
+# Datasets
+data/
+*.zip
+*.tar.gz
+
+# Transformers/HuggingFace
+.cache/
+*.bin
+*.msgpack
+*.jsonl
+*.arrow
+*.lock
+tokenizer_config.json
+vocab.json
+merges.txt
+special_tokens_map.json
+training_args.bin
+pytorch_model.bin
+
+# WandB
+wandb/
+
+# Environment files
+.env
+.env.*
+
+# Docker
+*.pid
+*.log
+
+# ---------------------------------
+# JetBrains (PyCharm/IntelliJ IDEA)
+# ---------------------------------
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# JetBrains system folders
+out/
+.idea_modules/
+
+# ---------------------------------
+# macOS/Linux
+# ---------------------------------
+.DS_Store
+Thumbs.db
+
+# ---------------------------------
+# Misc
+# ---------------------------------
+*.log
+*.tmp
+*.bak
