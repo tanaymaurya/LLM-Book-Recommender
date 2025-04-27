@@ -84,12 +84,12 @@ python gradio-dashboard.py
 
 📑 Acknowledgements
 
-    HuggingFace: For the Transformers library and pre-trained models.
+HuggingFace: For the Transformers library and pre-trained models.
 
-    Langchain: For document management and integration with language models.
+Langchain: For document management and integration with language models.
 
-    OpenAI: For providing powerful language models.
+OpenAI: For providing powerful language models.
 
-    ChromaDB: For vector database management.
+ChromaDB: For vector database management.
 
-    Gradio: For building the user interface.
+Gradio: For building the user interface.
